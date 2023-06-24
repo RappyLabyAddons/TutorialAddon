@@ -1,0 +1,13 @@
+{
+    "tutorial": {
+        "settings": {
+            "name": "Tutorial Addon",
+            "enabled": {
+                "name": "Enabled"
+            },
+            "text": {
+                "name": "TextField"
+            }
+        }
+    }
+}

@@ -1,4 +1,4 @@
-rootProject.name = "labymod4-addon-template"
+rootProject.name = "TutorialAddon"
 
 pluginManagement {
     val labyGradlePluginVersion = "0.3.25"

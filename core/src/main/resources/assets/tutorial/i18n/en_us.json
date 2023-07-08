@@ -5,8 +5,33 @@
             "enabled": {
                 "name": "Enabled"
             },
-            "text": {
-                "name": "TextField"
+            "keys": {
+                "name": "Key Settings",
+                "key": {
+                    "name": "Key",
+                    "description": "Your Test key!"
+                },
+                "keys": {
+                    "name": "Keys"
+                },
+                "button": {
+                    "name": "Testbutton",
+                    "text": "Click!"
+                }
+            },
+            "misc": {
+                "name": "Miscellaneous",
+                "slider": {
+                    "name": "Slider"
+                },
+                "text": {
+                    "name": "TextField"
+                }
+            },
+            "header": {
+                "custom": {
+                    "name": "Custom Subcategories"
+                }
             }
         }
     }

@@ -1,6 +1,8 @@
 package com.rappytv.tutorial;
 
 import com.rappytv.tutorial.config.TutorialConfig;
+import com.rappytv.tutorial.listeners.ChatMessageListener;
+import com.rappytv.tutorial.listeners.ServerNavigationListener;
 import net.labymod.api.addon.LabyAddon;
 import net.labymod.api.models.addon.annotation.AddonMain;
 
@@ -10,6 +12,8 @@ public class TutorialAddon extends LabyAddon<TutorialConfig> {
     @Override
     protected void enable() {
         registerSettingCategory();
+        registerListener(new ChatMessageListener());
+        registerListener(new ServerNavigationListener());
     }
 
     @Override

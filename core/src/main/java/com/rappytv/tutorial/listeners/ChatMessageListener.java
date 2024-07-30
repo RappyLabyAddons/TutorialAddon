@@ -9,7 +9,7 @@ public class ChatMessageListener {
 
     @Subscribe
     public void onMessageSend(ChatMessageSendEvent event) {
-        String[] badWords = new String[]{"badword1", "test", "böse"};
+        String[] badWords = new String[]{"adadwa"};
 
         for (String word : badWords) {
             if(event.getMessage().toLowerCase().contains(word.toLowerCase())) {

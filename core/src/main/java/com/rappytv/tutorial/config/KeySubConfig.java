@@ -5,7 +5,6 @@ import net.labymod.api.client.gui.screen.widget.widgets.input.ButtonWidget.Butto
 import net.labymod.api.client.gui.screen.widget.widgets.input.KeybindWidget.KeyBindSetting;
 import net.labymod.api.client.gui.screen.widget.widgets.input.MultiKeybindWidget.MultiKeyBindSetting;
 import net.labymod.api.configuration.loader.Config;
-import net.labymod.api.configuration.loader.annotation.ParentSwitch;
 import net.labymod.api.configuration.loader.annotation.SpriteSlot;
 import net.labymod.api.configuration.loader.property.ConfigProperty;
 import net.labymod.api.configuration.settings.Setting;
@@ -13,7 +12,6 @@ import net.labymod.api.util.MethodOrder;
 
 public class KeySubConfig extends Config {
 
-    @ParentSwitch
     private final ConfigProperty<Boolean> enabled = new ConfigProperty<>(true);
     @KeyBindSetting
     @SpriteSlot(size = 32, x = 3)

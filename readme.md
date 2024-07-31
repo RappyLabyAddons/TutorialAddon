@@ -9,9 +9,9 @@ You can find the LabyMod Documentation [here](https://dev.labymod.net/pages/addo
 | #2   | Configs    | ▶ [Uploaded](https://youtu.be/GGkKBayG3kc?si=Dxg9p7D31ZRYkdNE) |
 | #3   | Events     | ▶ [Uploaded](https://youtu.be/bxARGNlZkPg?si=ME5JHd04V9JxHRFy) |
 | #4   | Commands   | ▶ [Uploaded](https://youtu.be/NtLtTPEjZRk?si=A_TvUd-io0oImcKA) |
-| #5   | HudWidgets | ✨ Planned |
+| #5   | HudWidgets | ▶ [Uploaded](https://youtu.be/Z0gZPqbbnJU?si=Zh6FftF7SiKO8gOZ) |
 | #6   | Publishing | ✨ Planned |
-| #7   | NameTags   | 🔮 In the Future |
+| #7   | NameTags   | ✨ Planned |
 | #8   | Version Dependent Code | 🔮 In the Future |
 | #9   | Mixins     | 🔮 In the Future |
 

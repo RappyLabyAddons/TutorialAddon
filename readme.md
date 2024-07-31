@@ -1,6 +1,6 @@
 # RappyTV's Tutorial Addon
 The Tutorials to this addon can be watched [in this playlist](https://www.youtube.com/playlist?list=PL-NddfqjbJVaQ8YMF9i3E1xWTxQ349iP1).<br>
-You can find the LabyMod Documentation [here](https://wiki.labymod.net/pages/addon/).
+You can find the LabyMod Documentation [here](https://dev.labymod.net/pages/addon/).
 
 # Parts
 | Part | Topic      | Status  |
@@ -8,9 +8,9 @@ You can find the LabyMod Documentation [here](https://wiki.labymod.net/pages/add
 | #1   | Setup      | ▶ [Uploaded](https://youtu.be/hXQusqYTa20?si=pGL1Q3N_agputczq) |
 | #2   | Configs    | ▶ [Uploaded](https://youtu.be/GGkKBayG3kc?si=Dxg9p7D31ZRYkdNE) |
 | #3   | Events     | ▶ [Uploaded](https://youtu.be/bxARGNlZkPg?si=ME5JHd04V9JxHRFy) |
-| #4   | Commands   | ✨ Planned |
+| #4   | Commands   | ▶ [Uploaded](https://youtu.be/NtLtTPEjZRk?si=A_TvUd-io0oImcKA) |
 | #5   | HudWidgets | ✨ Planned |
-| #6   | Publishing | 🔮 In the Future |
+| #6   | Publishing | ✨ Planned |
 | #7   | NameTags   | 🔮 In the Future |
 | #8   | Version Dependent Code | 🔮 In the Future |
 | #9   | Mixins     | 🔮 In the Future |

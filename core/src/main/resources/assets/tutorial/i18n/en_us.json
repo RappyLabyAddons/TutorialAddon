@@ -36,6 +36,28 @@
         },
         "messages": {
             "warning": "§cWatch your language!"
+        },
+        "hudWidget": {
+            "tutorial_bool": {
+                "name": "Tutorial Boolean Widget",
+                "bool": {
+                    "name": "Boolean"
+                }
+            },
+            "tutorial_tick": {
+                "name": "Tutorial Tick Widget",
+                "bool": {
+                    "name": "Boolean"
+                }
+            }
+        }
+    },
+    "labymod": {
+        "hudWidgetCategory": {
+            "tutorial": {
+                "name": "Tutorial Category",
+                "description": "Tutorial Description"
+            }
         }
     }
 }
